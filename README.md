@@ -1,3 +1,3 @@
 # LoopOdin
 Audio VST-Plugin
-pleased to meet you...
+cout << "pleased to meet you" << endl;
